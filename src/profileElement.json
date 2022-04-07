@@ -1,0 +1,31 @@
+[
+    {
+        "page_label": "Profile Form",
+        "fields": [
+            {
+                "field_id": "english_name",
+                "field_label": "Name",
+                "field_mandatory": "yes",
+                "field_placeholder": "Enter your name",
+                "field_type": "text",
+                "field_value": ""
+            },
+            {
+                "field_id": "email",
+                "field_label": "Email",
+                "field_mandatory": "yes",
+                "field_placeholder": "Enter your email",
+                "field_type": "text"
+            },
+            {
+                "field_id": "Password",
+                "field_label": "Password",
+                "field_mandatory": "yes",
+                "field_placeholder": "Generate Password",
+                "field_type": "text",
+                "field_value": ""
+            }
+           
+        ]
+    }
+]
